@@ -216,30 +216,7 @@
       "email": "qraineyq@uol.com.br",
       "address": "Shazhenxi"
     },
-    {
-      "id": 28,
-      "first_name": "Alissa",
-      "last_name": "Brevitt",
-      "gender": "Female",
-      "email": "abrevittr@hibu.com",
-      "address": "Chamlykskaya"
-    },
-    {
-      "id": 29,
-      "first_name": "Farley",
-      "last_name": "Riddeough",
-      "gender": "Genderqueer",
-      "email": "friddeoughs@tinyurl.com",
-      "address": "Zhongshanlu"
-    },
-    {
-      "id": 30,
-      "first_name": "Alec",
-      "last_name": "Schulz",
-      "gender": "Non-binary",
-      "email": "aschulzt@fc2.com",
-      "address": "Rantau"
-    }
+ 
     
   ]
 }
